@@ -81,8 +81,8 @@ class Mail extends MessageGateway
             $host = 'smtp.qq.com';
             $secure = 'tls';
             $port = 587;
-        } else if (stripos($username, '@163.com') !== false) {
-            $host = 'smtp.163.com';
+        } else if (stripos($username, '@meijin.tk') !== false) {
+            $host = 'smtp.yandex.com';
             $secure = 'ssl';
             $port = 465;
         } else if (stripos($username, '@vip.163.com') !== false) {
