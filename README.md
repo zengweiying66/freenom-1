@@ -12,13 +12,6 @@
 Documentation: [English version](https://github.com/luolongfei/freenom/blob/main/README_EN.md) | 中文版
 </div>
 
-[📢 注意](#-注意)
-
-[🌿 谢 Special Thanks](#-特别感谢-special-thanks)
-
-[📃 引言](#-引言)
-
-[🍭 效果](#-效果)
 
 [🎁 事前准备](#-事前准备)
 
