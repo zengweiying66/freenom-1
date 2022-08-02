@@ -14,7 +14,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/main
 
 [📢 注意](#-注意)
 
-[🌿 特别感谢 Special Thanks](#-特别感谢-special-thanks)
+[🌿 谢 Special Thanks](#-特别感谢-special-thanks)
 
 [📃 引言](#-引言)
 
